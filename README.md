@@ -5,7 +5,7 @@ This project explores trends in global temperature changes, sea-level rise, and 
 ## 📁 Structure
 
 - `data/`: Preprocessed and cleaned CSV datasets
-- `notebooks/`: Jupyter notebooks containing EDA, time series modeling, clustering, and more
+- `code/`: Jupyter notebooks containing EDA, time series modeling, clustering, and more
 
 ## 🛠️ Tools Used
 
